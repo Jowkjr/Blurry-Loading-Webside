@@ -1,3 +1,3 @@
-## Blurry Loading Webside
+# Blurry Loading Webside
 
-# Loading with blur in page
+## Loading with blur in page
